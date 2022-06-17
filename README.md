@@ -14,11 +14,7 @@
   ## Installation
   npm init
 
-  npm install mysql2
-
-  npm install sequelize
-
-  npm install dotenv
+  npm install mysql2 sequelize dotenv
   ## Usage
   source db/schema.sql
 
