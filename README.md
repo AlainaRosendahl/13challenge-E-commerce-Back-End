@@ -29,7 +29,8 @@
   Alaina Rosendahl
   ## Testing:
   Video of working application will be presented here;
-  
+  ![Screen Shot 2022-06-18 at 8 58 01 AM](https://user-images.githubusercontent.com/101417047/174441790-1b9326d0-b88d-474e-97b6-1009b7f146dc.png)
+
   ## Additional Info:
   - Github: [AlainaRosendahl](https://github.com/AlainaRosendahl)
   - Email: elenarosendahl16@gmail.com 
