@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "![license](https://img.shields.io/badge/license-MIT-blue)   Find info at (https://shields.io) about all the many available Licenses.   ## Table of Contents    - [Description](#description)   - [Installation](#installation)   - [Usage](#usage)   - [Contribution](#contribution)   - [Testing](#testing)   - [Additional Info](#additional-info)   ## Description:   A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.   ## Installation   npm init",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlainaRosendahl/13challenge-E-commerce-Back-End"
+    "url": "git+https://github.com/AlainaRosendahl/13challenge-E-commerce-Back-End.git"
   },
   "keywords": [],
   "author": "Alaina Rosendahl",
@@ -24,7 +24,11 @@
     "express": "^4.18.1",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
-    "sequelize": "^6.20.1",
+    "sequelize": "^6.21.0",
     "sequelize-cli": "^6.4.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/AlainaRosendahl/13challenge-E-commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/AlainaRosendahl/13challenge-E-commerce-Back-End#readme"
 }
